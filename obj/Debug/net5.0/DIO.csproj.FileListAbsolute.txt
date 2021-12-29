@@ -1,0 +1,16 @@
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.exe
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.deps.json
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.runtimeconfig.json
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.runtimeconfig.dev.json
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.dll
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\ref\DIO.dll
+C:\Users\Kamijou\DIO\bin\Debug\net5.0\DIO.pdb
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.csproj.AssemblyReference.cache
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.AssemblyInfoInputs.cache
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.AssemblyInfo.cs
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.csproj.CoreCompileInputs.cache
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.dll
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\ref\DIO.dll
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.pdb
+C:\Users\Kamijou\DIO\obj\Debug\net5.0\DIO.genruntimeconfig.cache
